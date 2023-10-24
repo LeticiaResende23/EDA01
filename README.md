@@ -72,6 +72,41 @@
 ![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/e5c50e9a-a852-4dad-81ae-9cf4cad53d52)
 ![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/241a89cc-73b3-43c1-9868-ae896ff6df8c)
 ![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/712e8a04-8a87-4c0c-b53d-386c353df390)
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+# Árvores Binárias
+https://www.ime.usp.br/~pf/algoritmos/aulas/bint.html
+# Árvores Binárias de Busca
+https://www.ime.usp.br/~pf/algoritmos/aulas/binst.html
+
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/aeff3ba0-c143-46a7-8351-27f2b27a9267)
+
+# Criando uma árovre e buscando
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/ca4cb61d-72df-43f8-9a3f-037eef9d611a)
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/f60206f8-a3bd-482e-89a5-ac64ad358f70)
+# Número de nós e altura 
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/d21e6cb0-687b-473e-adeb-23bbbb9a865e)
+# Altura da árvore
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/e1017f23-fd10-4d5c-8afd-3a08b156c32e)
+# Torneio 
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/7bca8bff-9d82-40df-a03f-95eee5466efd)
+# Pré-ordem
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/a3c2b6b6-0844-4086-8d46-8418f8b19303)
+# Pós-ordem
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/bb55d417-3388-45be-8f59-c93427415a09)
+# Inordem
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/9530dcfd-7bc5-4c7e-a5ad-de2309201bbb)
+# Percuso em profundidade com pilha
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/df92b413-6f27-476f-a41a-69c9af96185c)
+# Percuso em largura
+![image](https://github.com/LeticiaResende23/EDA01/assets/89492943/c797303d-c85f-4cb0-a67a-b54c1bb0344b)
+
+
+
+
+
+
+
+
 
 
 
